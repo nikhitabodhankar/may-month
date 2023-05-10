@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace hello_may
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello this is the month of july");
+            Console.WriteLine("* Today's date is 10th of may*");
+            Console.ReadLine();
+        }
+    }
+}
